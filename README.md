@@ -18,4 +18,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
