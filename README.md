@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +41,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
