@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axel3246/Leetcode-Push/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0027-remove-element) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
