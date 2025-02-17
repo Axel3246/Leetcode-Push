@@ -1,6 +1,15 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(0, len(nums)-1):
-            for j in range(i+1, len(nums)):
-                if (nums[i]+nums[j]) == target:
-                    return i, j
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        hmap = {}
+
+        # We traverse through idx and content
+        for i,j in enumerate(nums):
+            # We check if the residual of target = curr context is in our hashmap
+            if(target - j) in hmap:
+                return [i, hmap[target-j]] # if yes, we return the curr idx and the other idx
+            hmap[j] = i # else, we just add the new element to the hashmap
