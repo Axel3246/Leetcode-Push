@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Axel3246/Leetcode-Push/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
+| [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
