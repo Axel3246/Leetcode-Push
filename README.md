@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Axel3246/Leetcode-Push/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Axel3246/Leetcode-Push/tree/master/0682-baseball-game) |
+| [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/Axel3246/Leetcode-Push/tree/master/0983-validate-stack-sequences) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Axel3246/Leetcode-Push/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
+| [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
