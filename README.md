@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Axel3246/Leetcode-Push/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
