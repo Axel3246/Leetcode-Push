@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Axel3246/Leetcode-Push/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Axel3246/Leetcode-Push/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Axel3246/Leetcode-Push/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Axel3246/Leetcode-Push/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Axel3246/Leetcode-Push/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Axel3246/Leetcode-Push/tree/master/0682-baseball-game) |
