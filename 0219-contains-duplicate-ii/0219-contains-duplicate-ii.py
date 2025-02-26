@@ -2,17 +2,20 @@ class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         
 
-        hmap = {}
+        swind = set()
+        L, R = 0, 1
 
-        for i in range(0, len(nums)):
-            val = nums[i]
-            if val in hmap:
-                new = abs(hmap.get(val)-i)
-                if new <= k:
-                    return True
-                else:
-                    hmap[val] = i
-            else:
-                hmap[val] = i
-        print(hmap)
+        # Iterate through the arr
+        for R in range(len(nums)):
+            
+            # If R - L > k, we got an invalid window, so we need to 'update' L until its valid again
+            if R - L > k:
+                swind.remove(nums[L])
+                L += 1
+            
+            # If nums[R] is in window, return True
+            if nums[R] in swind:
+                return True
+            swind.add(nums[R])
+        
         return False
