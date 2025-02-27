@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Axel3246/Leetcode-Push/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Axel3246/Leetcode-Push/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
