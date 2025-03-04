@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -148,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
