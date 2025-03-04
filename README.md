@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Axel3246/Leetcode-Push/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Axel3246/Leetcode-Push/tree/master/0983-validate-stack-sequences) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
