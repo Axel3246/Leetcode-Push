@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
+| [2235-capitalize-the-title](https://github.com/Axel3246/Leetcode-Push/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Axel3246/Leetcode-Push/tree/master/3447-clear-digits) |
 ## Sorting
