@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Axel3246/Leetcode-Push/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2235-capitalize-the-title](https://github.com/Axel3246/Leetcode-Push/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/Axel3246/Leetcode-Push/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/Axel3246/Leetcode-Push/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
