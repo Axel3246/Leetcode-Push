@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/Axel3246/Leetcode-Push/tree/master/0983-validate-stack-sequences) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Axel3246/Leetcode-Push/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Axel3246/Leetcode-Push/tree/master/1241-decompress-run-length-encoded-list) |
+| [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Axel3246/Leetcode-Push/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
+| [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Axel3246/Leetcode-Push/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
