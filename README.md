@@ -159,10 +159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
