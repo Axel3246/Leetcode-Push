@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
