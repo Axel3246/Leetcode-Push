@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Axel3246/Leetcode-Push/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Axel3246/Leetcode-Push/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Axel3246/Leetcode-Push/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Axel3246/Leetcode-Push/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
 ## Queue
