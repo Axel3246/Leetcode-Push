@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Axel3246/Leetcode-Push/tree/master/3447-clear-digits) |
 ## Math
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2573-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Axel3246/Leetcode-Push/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
