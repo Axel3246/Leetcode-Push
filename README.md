@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Axel3246/Leetcode-Push/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Axel3246/Leetcode-Push/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
+| [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
+| [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
 | ------- |
