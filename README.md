@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/Axel3246/Leetcode-Push/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Axel3246/Leetcode-Push/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Axel3246/Leetcode-Push/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Axel3246/Leetcode-Push/tree/master/0682-baseball-game) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Axel3246/Leetcode-Push/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Axel3246/Leetcode-Push/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Axel3246/Leetcode-Push/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
 | [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
@@ -158,10 +161,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Axel3246/Leetcode-Push/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Axel3246/Leetcode-Push/tree/master/0387-first-unique-character-in-a-string) |
 | [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
@@ -208,4 +213,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
