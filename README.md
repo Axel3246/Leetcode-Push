@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Axel3246/Leetcode-Push/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Axel3246/Leetcode-Push/tree/master/3194-find-words-containing-character) |
+| [3430-count-days-without-meetings](https://github.com/Axel3246/Leetcode-Push/tree/master/3430-count-days-without-meetings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Axel3246/Leetcode-Push/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Axel3246/Leetcode-Push/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
+| [3430-count-days-without-meetings](https://github.com/Axel3246/Leetcode-Push/tree/master/3430-count-days-without-meetings) |
 | [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
 ## Stack
 |  |
