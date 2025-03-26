@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Axel3246/Leetcode-Push/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axel3246/Leetcode-Push/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/Axel3246/Leetcode-Push/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Axel3246/Leetcode-Push/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Axel3246/Leetcode-Push/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Axel3246/Leetcode-Push/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Axel3246/Leetcode-Push/tree/master/0217-contains-duplicate) |
