@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Axel3246/Leetcode-Push/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Axel3246/Leetcode-Push/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Axel3246/Leetcode-Push/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Axel3246/Leetcode-Push/tree/master/0071-simplify-path) |
@@ -235,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0128-longest-consecutive-sequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Axel3246/Leetcode-Push/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
