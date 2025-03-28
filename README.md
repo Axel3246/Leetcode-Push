@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Axel3246/Leetcode-Push/tree/master/2714-left-and-right-sum-differences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Axel3246/Leetcode-Push/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Axel3246/Leetcode-Push/tree/master/3194-find-words-containing-character) |
 | [3430-count-days-without-meetings](https://github.com/Axel3246/Leetcode-Push/tree/master/3430-count-days-without-meetings) |
@@ -244,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Axel3246/Leetcode-Push/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/Axel3246/Leetcode-Push/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
