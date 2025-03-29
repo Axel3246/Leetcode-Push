@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2571-find-the-pivot-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Axel3246/Leetcode-Push/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Axel3246/Leetcode-Push/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Axel3246/Leetcode-Push/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Axel3246/Leetcode-Push/tree/master/1833-find-the-highest-altitude) |
+| [2571-find-the-pivot-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Axel3246/Leetcode-Push/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Axel3246/Leetcode-Push/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
