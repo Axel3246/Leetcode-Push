@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Axel3246/Leetcode-Push/tree/master/3194-find-words-containing-character) |
 | [3430-count-days-without-meetings](https://github.com/Axel3246/Leetcode-Push/tree/master/3430-count-days-without-meetings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Axel3246/Leetcode-Push/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Axel3246/Leetcode-Push/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Axel3246/Leetcode-Push/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Axel3246/Leetcode-Push/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -249,4 +250,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/Axel3246/Leetcode-Push/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Axel3246/Leetcode-Push/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
