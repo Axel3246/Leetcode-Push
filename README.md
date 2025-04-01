@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Axel3246/Leetcode-Push/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Axel3246/Leetcode-Push/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Axel3246/Leetcode-Push/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Axel3246/Leetcode-Push/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Axel3246/Leetcode-Push/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Axel3246/Leetcode-Push/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Axel3246/Leetcode-Push/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Axel3246/Leetcode-Push/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Axel3246/Leetcode-Push/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Axel3246/Leetcode-Push/tree/master/2714-left-and-right-sum-differences) |
