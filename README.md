@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Axel3246/Leetcode-Push/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Axel3246/Leetcode-Push/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Axel3246/Leetcode-Push/tree/master/1256-rank-transform-of-an-array) |
+| [1651-shuffle-string](https://github.com/Axel3246/Leetcode-Push/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/Axel3246/Leetcode-Push/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/Axel3246/Leetcode-Push/tree/master/2058-concatenation-of-array) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/Axel3246/Leetcode-Push/tree/master/0520-detect-capital) |
 | [0874-backspace-string-compare](https://github.com/Axel3246/Leetcode-Push/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/Axel3246/Leetcode-Push/tree/master/0965-unique-email-addresses) |
+| [1651-shuffle-string](https://github.com/Axel3246/Leetcode-Push/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Axel3246/Leetcode-Push/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Axel3246/Leetcode-Push/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Axel3246/Leetcode-Push/tree/master/1894-merge-strings-alternately) |
