@@ -8,16 +8,14 @@ class Solution:
         
         if not head:
             return head
-            
+
         currNode, helperNode = head, head.next
 
         while helperNode:
-            if currNode.val == helperNode.val:
-                helperNode = helperNode.next
-            else:
+            if currNode.val != helperNode.val:
                 currNode.next = helperNode
                 currNode = helperNode
-                helperNode = helperNode.next
+            helperNode = helperNode.next
         
         currNode.next = helperNode
 
