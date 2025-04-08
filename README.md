@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Axel3246/Leetcode-Push/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Axel3246/Leetcode-Push/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Axel3246/Leetcode-Push/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Axel3246/Leetcode-Push/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Axel3246/Leetcode-Push/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Axel3246/Leetcode-Push/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Axel3246/Leetcode-Push/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Axel3246/Leetcode-Push/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Axel3246/Leetcode-Push/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Axel3246/Leetcode-Push/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Axel3246/Leetcode-Push/tree/master/0412-fizz-buzz) |
